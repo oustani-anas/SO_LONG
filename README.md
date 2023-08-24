@@ -1,6 +1,5 @@
 # Basic Computer Graphics Project using MiniLibX
 
-## Welcome
 
 Welcome to my basic computer graphics project created as part of my school coursework! In this project, I've utilized the MiniLibX library to develop a graphical application that explores various fundamental concepts in computer graphics, including window management, event handling, colors, and textures. This project not only enhances my programming skills but also serves as a platform to demonstrate my proficiency in C programming, algorithmic thinking, and research capabilities.
 
@@ -13,7 +12,7 @@ Welcome to my basic computer graphics project created as part of my school cours
   - Implement color and texture functionalities
 - **Key Features**:
   - Window creation and management
-  - Keyboard and mouse event handling
+  - Keyboard event handling
   - Color manipulation and visualization
   - Texture rendering
 - **Learning Objectives**:
@@ -21,7 +20,3 @@ Welcome to my basic computer graphics project created as part of my school cours
   - Apply basic algorithms
   - Conduct information research
   - Gain insights into computer graphics principles
-
-## How to Run
-
-1. Clone this repository to your local machine.
